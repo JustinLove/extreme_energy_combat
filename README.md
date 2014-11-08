@@ -14,7 +14,7 @@ This mod expects that construction costs will be reduced, but does not include t
 
 ### Demand is constant.
 
-Factories are always on and fabbers are usually fabbing.  Storage is a mostly forgotten vestige of the TA heritage; a player who builds one in competitive play gets asked about the unsual move in interviews.
+Factories are always on and fabbers are usually fabbing.  Storage is a mostly forgotten vestige of the TA heritage; a player who builds one in competitive play gets asked about the unusual move in interviews.
 
 This mod adds a significant energy drain for units and combat.  In practice with the systems available this means the ammo system applied across the board, as well as recon and nukes.
 
