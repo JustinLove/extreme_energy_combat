@@ -1,7 +1,7 @@
 {
   "author": "wondible",
   "build": "74525",
-  "category": ["energy"],
+  "category": ["energy", "combat"],
   "context": "server",
   "date": "2014/11/08",
   "description": "Units use large amounts of energy while fighting.",
