@@ -1,0 +1,20 @@
+{
+  "base_spec": "/pa/tools/base_laser_turret/base_laser_turret.json",
+  "ammo_id": "/pa/units/land/laser_defense_single/laser_defense_single_ammo.json",
+  "rate_of_fire": 2,
+  "max_range": 100,
+  "yaw_rate": 60,
+  "pitch_rate": 180,
+  "yaw_range": 180,
+  "pitch_range": 90,
+  "auto_attack": true,
+  "target_layers": [
+    "WL_LandHorizontal",
+    "WL_Seafloor",
+    "WL_WaterSurface"
+  ],
+  "ammo_capacity": 2400,
+  "ammo_demand": 1600,
+  "ammo_per_shot": 800,
+  "ammo_source": "energy"
+}
