@@ -48,7 +48,11 @@ module.exports = function(grunt) {
           // multiple actual turrets :-(
           '!pa/units/orbital/defense_satellite/defense_satellite_tool_weapon.json',
           '!pa/units/sea/battleship/battleship_tool_weapon.json',
-          '!pa/units/sea/destroyer/destroyer_tool_weapon.json'
+          '!pa/units/sea/destroyer/destroyer_tool_weapon.json',
+          // not a real weapon
+          '!pa/units/land/nuke_launcher/nuke_launcher_tool_weapon.json',
+          '!pa/units/land/anti_nuke_launcher/anti_nuke_launcher_tool_weapon.json',
+          '!pa/units/land/unit_cannon/unit_cannon_tool_weapon.json'
         ],
         process: function(spec) {
           if (spec.ammo_capacity > 0) return

@@ -2,13 +2,13 @@
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
   "display_name": "!LOC(units:leviathan.message):Leviathan",
   "description": "!LOC(units:battleship_long_range_advanced_anti_ship_and_anti_land_guns.message):Battleship- Long range advanced anti-ship, and anti-land guns.",
-  "max_health": 4000,
+  "max_health": 6000,
   "build_metal_cost": 4800,
   "spawn_layers": "WL_WaterSurface",
   "mesh_bounds": [
-    17,
-    80,
-    23
+    9,
+    40,
+    12
   ],
   "unit_types": [
     "UNITTYPE_Naval",
@@ -21,16 +21,16 @@
   "guard_layer": "WL_LandHorizontal",
   "navigation": {
     "type": "deepwater",
-    "acceleration": 60,
-    "brake": 60,
-    "move_speed": 6,
+    "acceleration": 30,
+    "brake": 80,
+    "move_speed": 8,
     "turn_speed": 45,
     "park_stamp_type": "box",
     "park_stamp_cost": 30
   },
   "physics": {
     "shape": "sphere",
-    "radius": 12,
+    "radius": 6,
     "push_class": 2
   },
   "recon": {
@@ -48,8 +48,7 @@
   },
   "model": {
     "filename": "/pa/units/sea/battleship/battleship.papa",
-    "animtree": "/pa/anim/anim_trees/battleship_anim_tree.json",
-    "arrows": 5
+    "animtree": "/pa/anim/anim_trees/battleship_anim_tree.json"
   },
   "nearby_target_tick_update_interval": 15,
   "tools": [
@@ -207,6 +206,6 @@
   },
   "TEMP_texelinfo": 47.2606,
   "consumption": {
-    "energy": 2400
+    "energy": 4800
   }
 }

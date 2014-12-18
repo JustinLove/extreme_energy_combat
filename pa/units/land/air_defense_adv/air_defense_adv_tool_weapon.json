@@ -12,6 +12,11 @@
   "target_layers": [
     "WL_Air"
   ],
+  "target_priorities": [
+    "Air & Bomber",
+    "Air & Gunship",
+    "Air & Mobile"
+  ],
   "ammo_capacity": 6000,
   "ammo_demand": 2000,
   "ammo_per_shot": 2000,

@@ -1,3 +1,8 @@
+## 1.0.2
+
+- Update unit stats to match 76456
+- Removed unnecessary nuke/anti weapon shadows
+
 ## 1.0.1
 
 - Update dox vision to match 75539
