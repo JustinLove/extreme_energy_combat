@@ -20,6 +20,7 @@ module.exports = function(grunt) {
               'LICENSE.txt',
               'README.md',
               'CHANGELOG.md',
+              'com.wondible.pa.*/**',
               'ui/**',
               'pa/**'],
             dest: modPath,

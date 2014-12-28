@@ -1,3 +1,7 @@
+## 1.1.0
+
+- Support for Server Mod Help Chat
+
 ## 1.0.2
 
 - Update unit stats to match 76456
