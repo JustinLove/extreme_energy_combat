@@ -1,4 +1,7 @@
 {
+  "articles": {
+    "Extreme Energy Combat": "coui://com.wondible.pa.extreme_energy_combat/eee.html"
+  },
   "topics": {
     "extreme energy combat": "Units use large amounts of energy while fighting."
   }
