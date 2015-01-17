@@ -1,6 +1,7 @@
 ## 1.1.0
 
 - Support for Server Mod Help Chat
+- Missed change to umbrella
 
 ## 1.0.2
 
