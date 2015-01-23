@@ -3,7 +3,7 @@
   "build": "76766",
   "category": ["energy", "combat"],
   "context": "server",
-  "date": "2015/01/16",
+  "date": "2015/01/23",
   "description": "Units use large amounts of energy while fighting.",
   "display_name": "Extreme Energy Combat",
   "forum": "https://forums.uberent.com/threads/rel-server-extreme-energy-combat.65881/",
