@@ -6,7 +6,7 @@
   "min_firing_velocity": 10,
   "arc_type": "ARC_high",
   "firing_standard_deviation": 2,
-  "rate_of_fire": 0.05,
+  "rate_of_fire": 0.07,
   "ammo_capacity": 37500,
   "ammo_demand": 2500,
   "ammo_per_shot": 37500,
@@ -21,6 +21,7 @@
   "target_layers": [
     "WL_LandHorizontal",
     "WL_Seafloor",
-    "WL_WaterSurface"
+    "WL_WaterSurface",
+    "WL_Underwater"
   ]
 }

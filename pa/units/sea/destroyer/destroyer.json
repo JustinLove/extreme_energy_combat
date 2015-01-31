@@ -41,6 +41,13 @@
           "shape": "capsule",
           "radius": 180,
           "uses_energy": true
+        },
+        {
+          "layer": "underwater",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 180,
+          "uses_energy": true
         }
       ]
     }
@@ -78,14 +85,6 @@
       "fire_event": "fired1",
       "aim_bone": "bone_pitch02",
       "muzzle_bone": "socket_leftMuzzle02"
-    },
-    {
-      "spec_id": "/pa/units/sea/destroyer/destroyer_tool_torpedo.json",
-      "record_index": 2,
-      "aim_bone": "socket_torpedoMuzzle",
-      "muzzle_bone": "socket_torpedoMuzzle",
-      "fire_event": "fired2",
-      "show_range": false
     }
   ],
   "events": {
@@ -124,6 +123,6 @@
   },
   "TEMP_texelinfo": 22.1895,
   "consumption": {
-    "energy": 1250
+    "energy": 1200
   }
 }

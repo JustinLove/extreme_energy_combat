@@ -12,7 +12,7 @@
   "yaw_range": 30,
   "pitch_range": 180,
   "auto_attack": true,
-  "spread_fire": false,
+  "spread_fire": true,
   "carpet_fire": false,
   "firing_standard_deviation": 0,
   "target_layers": [

@@ -14,7 +14,8 @@
   "auto_attack": true,
   "target_layers": [
     "WL_LandHorizontal",
-    "WL_WaterSurface"
+    "WL_WaterSurface",
+    "Orbital"
   ],
   "ammo_capacity": 60000,
   "ammo_demand": 5000,

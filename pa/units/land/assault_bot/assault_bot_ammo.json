@@ -5,7 +5,7 @@
   "splash_radius": 0,
   "initial_velocity": 130,
   "max_velocity": 130,
-  "lifetime": 2,
+  "lifetime": 1,
   "model": null,
   "fx_trail": {
     "filename": "/pa/effects/specs/bullet_proj_trail.pfx",

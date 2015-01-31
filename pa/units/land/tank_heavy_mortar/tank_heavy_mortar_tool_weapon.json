@@ -13,7 +13,8 @@
   "target_layers": [
     "WL_LandHorizontal",
     "WL_Seafloor",
-    "WL_WaterSurface"
+    "WL_WaterSurface",
+    "WL_Underwater"
   ],
   "ammo_capacity": 24000,
   "ammo_demand": 2000,

@@ -18,7 +18,8 @@
   "target_layers": [
     "WL_LandHorizontal",
     "WL_WaterSurface",
-    "WL_Seafloor"
+    "WL_Seafloor",
+    "WL_Underwater"
   ],
   "events": {
     "died": {

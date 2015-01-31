@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/tools/base_fighter_turret/base_fighter_turret.json",
   "ammo_id": "/pa/units/air/fighter_adv/fighter_adv_ammo.json",
-  "rate_of_fire": 5,
+  "rate_of_fire": 3,
   "max_range": 120,
   "firing_arc_yaw": 45,
   "firing_arc_pitch": 45,
@@ -11,7 +11,7 @@
     "WL_Air"
   ],
   "ammo_capacity": 9000,
-  "ammo_demand": 15000,
+  "ammo_demand": 9000,
   "ammo_per_shot": 3000,
   "ammo_source": "energy"
 }

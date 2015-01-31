@@ -39,8 +39,10 @@ module.exports = function(grunt) {
           '!pa/units/land/assault_bot_adv/assault_bot_adv_torpedo_tool_weapon.json',
           '!pa/units/land/bot_sniper/bot_sniper_beam_tool_weapon.json',
           '!pa/units/sea/destoryer/destoryer_tool_torpedo.json',
+          '!pa/units/sea/frigate/frigate_tool_weapon_torpedo.json',
           '!pa/units/sea/frigate/frigate_tool_weapon_shell.json',
           '!pa/units/sea/missile_ship/missile_ship_aa_tool_weapon.json',
+          '!pa/units/sea/nuclear_sub/nuclear_sub_tool_weapon.json',
           // others are used twice on the same unit and need special treatment
           '!pa/units/air/gunship/gunship_tool_weapon.json',
           '!pa/units/land/assault_bot/assault_bot_tool_weapon.json',

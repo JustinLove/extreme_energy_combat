@@ -2,7 +2,7 @@
   "base_spec": "/pa/tools/base_torpedo_turret/base_torpedo_turret.json",
   "ammo_id": "/pa/units/sea/torpedo_launcher_adv/torpedo_launcher_adv_ammo.json",
   "spawn_layers": "WL_Underwater",
-  "rate_of_fire": 3,
+  "rate_of_fire": 2.5,
   "max_range": 210,
   "yaw_rate": 360,
   "pitch_rate": 360,
@@ -15,8 +15,8 @@
     "WL_Underwater",
     "WL_Seafloor"
   ],
-  "ammo_capacity": 14100,
-  "ammo_demand": 14100,
-  "ammo_per_shot": 4700,
+  "ammo_capacity": 15000,
+  "ammo_demand": 12500,
+  "ammo_per_shot": 5000,
   "ammo_source": "energy"
 }
