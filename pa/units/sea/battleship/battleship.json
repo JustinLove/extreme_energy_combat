@@ -40,15 +40,13 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 200,
-          "uses_energy": true
+          "radius": 200
         },
         {
           "layer": "underwater",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 200,
-          "uses_energy": true
+          "radius": 200
         }
       ]
     }
@@ -212,7 +210,7 @@
     }
   },
   "TEMP_texelinfo": 47.2606,
-  "consumption": {
-    "energy": 4800
+  "production": {
+    "energy": -4800
   }
 }

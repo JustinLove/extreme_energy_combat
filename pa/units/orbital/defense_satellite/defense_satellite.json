@@ -46,15 +46,13 @@
           "layer": "orbital",
           "channel": "sight",
           "shape": "sphere",
-          "radius": 280,
-          "uses_energy": true
+          "radius": 280
         },
         {
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 120,
-          "uses_energy": true
+          "radius": 120
         }
       ]
     }
@@ -126,7 +124,7 @@
     50
   ],
   "TEMP_texelinfo": 26.4194,
-  "consumption": {
-    "energy": 3900
+  "production": {
+    "energy": -3900
   }
 }

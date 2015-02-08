@@ -145,12 +145,9 @@ module.exports = function(grunt) {
           var ammo = grunt.file.readJSON(media + ammo_id)
           var shot = ammo.damage * spec.tools.length * power / 2
           var eps = weapon.rate_of_fire * shot
-          spec.consumption = {
-            "energy": eps
+          spec.production = {
+            "energy": -eps
           }
-          spec.recon.observer.items.forEach(function(item) {
-            item.uses_energy = true
-          })
         }
       },
     }

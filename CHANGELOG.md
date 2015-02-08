@@ -1,3 +1,7 @@
+## 1.1.2
+
+- Multi-turret units with fixed costs can no longer be power toggled.
+
 ## 1.1.1
 
 - Update for 77443

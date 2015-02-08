@@ -18,7 +18,7 @@ Factories are always on and fabbers are usually fabbing.  Storage is a mostly fo
 
 This mod adds a significant energy drain for units and combat.  In practice with the systems available this means the ammo system applied across the board, as well as recon and nukes.
 
-Compromises: units are limited to one ammo weapon.  Some units had to be switched to alternating fire, and units with independent turrets have a fixed maintenance cost instead of ammo.  (Unfortunately the game allows you to turn them off; the unit's vision has been tied to power so there is some penalty for doing this.)
+Compromises: units are limited to one ammo weapon.  Some units had to be switched to alternating fire, and units with independent turrets have a fixed maintenance cost instead of ammo.
 
 ## Development
 
