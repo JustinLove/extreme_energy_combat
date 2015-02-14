@@ -1,3 +1,7 @@
+## 1.1.3
+
+- Update unit specs for 78071
+
 ## 1.1.2
 
 - Multi-turret units with fixed costs can no longer be power toggled.
