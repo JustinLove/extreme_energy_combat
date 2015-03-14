@@ -61,28 +61,22 @@
       "record_index": 0,
       "fire_event": "fired0",
       "aim_bone": "bone_pitch01",
-      "muzzle_bone": "socket_rightMuzzle01"
-    },
-    {
-      "spec_id": "/pa/units/sea/destroyer/destroyer_tool_weapon.json",
-      "record_index": 0,
-      "fire_event": "fired0",
-      "aim_bone": "bone_pitch01",
-      "muzzle_bone": "socket_leftMuzzle01"
-    },
-    {
-      "spec_id": "/pa/units/sea/destroyer/destroyer_tool_weapon.json",
-      "record_index": 1,
-      "fire_event": "fired1",
-      "aim_bone": "bone_pitch02",
-      "muzzle_bone": "socket_rightMuzzle02"
+      "projectiles_per_fire": 2,
+      "muzzle_bone": [
+        "socket_leftMuzzle01",
+        "socket_rightMuzzle01"
+      ]
     },
     {
       "spec_id": "/pa/units/sea/destroyer/destroyer_tool_weapon.json",
       "record_index": 1,
       "fire_event": "fired1",
       "aim_bone": "bone_pitch02",
-      "muzzle_bone": "socket_leftMuzzle02"
+      "projectiles_per_fire": 2,
+      "muzzle_bone": [
+        "socket_leftMuzzle01",
+        "socket_rightMuzzle01"
+      ]
     }
   ],
   "events": {

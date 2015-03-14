@@ -1,3 +1,8 @@
+## 1.1.4
+
+- Update unit specs for 79317
+- Account for `projectiles_per_fire`
+
 ## 1.1.3
 
 - Update unit specs for 78071
