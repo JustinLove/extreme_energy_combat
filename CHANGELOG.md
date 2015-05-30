@@ -1,3 +1,7 @@
+## 1.1.5
+
+- Update for sea scout targeting
+
 ## 1.1.4
 
 - Update unit specs for 79317

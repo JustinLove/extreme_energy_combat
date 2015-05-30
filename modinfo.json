@@ -1,14 +1,14 @@
 {
   "author": "wondible",
-  "build": "79317",
+  "build": "79600",
   "category": ["energy", "combat"],
   "context": "server",
-  "date": "2015/03/14",
+  "date": "2015/03/20",
   "description": "Units use large amounts of energy while fighting.",
   "display_name": "Extreme Energy Combat",
   "forum": "https://forums.uberent.com/threads/rel-server-extreme-energy-combat.65881/",
   "identifier": "com.wondible.pa.extreme_energy_combat",
   "signature": "not yet implemented",
-  "version": "1.1.4"
+  "version": "1.1.5"
 }
 
