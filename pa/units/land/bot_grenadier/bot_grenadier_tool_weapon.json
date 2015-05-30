@@ -1,8 +1,8 @@
 {
   "base_spec": "/pa/tools/base_bot_weapon/base_bot_weapon.json",
   "ammo_id": "/pa/units/land/bot_grenadier/bot_grenadier_ammo.json",
-  "max_firing_velocity": 68,
-  "min_firing_velocity": 65,
+  "max_firing_velocity": 88,
+  "min_firing_velocity": 85,
   "rate_of_fire": 0.5,
   "idle_aim_delay": 1,
   "max_range": 125,
@@ -16,6 +16,14 @@
     "WL_LandHorizontal",
     "WL_Seafloor",
     "WL_WaterSurface"
+  ],
+  "target_priorities": [
+    "Structure & SurfaceDefense",
+    "Structure & Defense",
+    "Commander",
+    "Mobile - Air",
+    "Structure - Wall",
+    "Wall"
   ],
   "ammo_capacity": 4800,
   "ammo_demand": 800,

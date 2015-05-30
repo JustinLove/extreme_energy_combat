@@ -1,3 +1,7 @@
+## 1.1.6
+
+- PA updates: Grenedier changes and destroyer muzzle
+
 ## 1.1.5
 
 - Update for sea scout targeting
