@@ -1,6 +1,8 @@
 ## 1.1.6
 
-- PA updates: Grenedier changes and destroyer muzzle
+- PA updates for 82293:
+- Grenedier changes and destroyer muzzle
+- Tweak player guide topic
 
 ## 1.1.5
 
