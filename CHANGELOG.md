@@ -1,3 +1,9 @@
+## 2.0.0
+
+- Based on titans units
+- Units roll off the factory with no ammo, so you'll need some energy before building an army, rather than before the shooting starts.
+- Update image paths in help article
+
 ## 1.1.6
 
 - PA updates for 82293:

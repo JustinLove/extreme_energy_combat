@@ -16,10 +16,9 @@
   "firing_arc_yaw": 0,
   "firing_arc_pitch": 5,
   "auto_attack": true,
-  "firing_standard_deviation": 0.25,
+  "firing_standard_deviation": 0.35,
   "physics": {
     "radius": 1,
-    "push_class": 1,
     "gravity_scalar": 1,
     "add_to_spatial_db": false
   },
@@ -28,5 +27,6 @@
     "WL_Seafloor",
     "WL_WaterSurface",
     "WL_Underwater"
-  ]
+  ],
+  "start_fully_charged": false
 }

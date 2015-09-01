@@ -14,8 +14,10 @@
   "self_destruct": true,
   "target_layers": [
     "WL_LandHorizontal",
-    "WL_WaterSurface"
+    "WL_WaterSurface",
+    "WL_Underwater"
   ],
+  "start_fully_charged": false,
   "ammo_capacity": null,
   "ammo_demand": null,
   "ammo_per_shot": null,

@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "ammo_id": "/pa/units/land/air_defense_adv/air_defense_adv_ammo.json",
-  "rate_of_fire": 1,
+  "rate_of_fire": 1.2,
   "max_range": 100,
   "yaw_rate": 3600,
   "pitch_rate": 3600,
@@ -17,8 +17,9 @@
     "Air & Gunship",
     "Air & Mobile"
   ],
-  "ammo_capacity": 6000,
-  "ammo_demand": 2000,
-  "ammo_per_shot": 2000,
+  "start_fully_charged": false,
+  "ammo_capacity": 9000,
+  "ammo_demand": 3600,
+  "ammo_per_shot": 3000,
   "ammo_source": "energy"
 }

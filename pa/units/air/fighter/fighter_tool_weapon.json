@@ -9,6 +9,7 @@
   "target_layers": [
     "WL_Air"
   ],
+  "start_fully_charged": false,
   "ammo_capacity": 4800,
   "ammo_demand": 1600,
   "ammo_per_shot": 1600,

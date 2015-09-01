@@ -17,8 +17,9 @@
     "WL_LandHorizontal",
     "WL_WaterSurface"
   ],
-  "ammo_capacity": 36000,
-  "ammo_demand": 60000,
+  "start_fully_charged": false,
+  "ammo_capacity": 12000,
+  "ammo_demand": 1200,
   "ammo_per_shot": 12000,
   "ammo_source": "energy"
 }

@@ -19,5 +19,6 @@
     "WL_LandHorizontal",
     "WL_WaterSurface",
     "WL_Seafloor"
-  ]
+  ],
+  "start_fully_charged": false
 }

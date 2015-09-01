@@ -3,14 +3,15 @@
   "ammo_id": "/pa/units/land/bot_grenadier/bot_grenadier_ammo.json",
   "max_firing_velocity": 88,
   "min_firing_velocity": 85,
-  "rate_of_fire": 0.5,
+  "rate_of_fire": 0.4,
   "idle_aim_delay": 1,
   "max_range": 125,
-  "yaw_rate": 360,
+  "yaw_rate": 120,
   "pitch_rate": 360,
-  "yaw_range": 180,
+  "yaw_range": 90,
   "pitch_range": 90,
   "auto_attack": true,
+  "firing_standard_deviation": 1,
   "arc_type": "ARC_High",
   "target_layers": [
     "WL_LandHorizontal",
@@ -25,8 +26,9 @@
     "Structure - Wall",
     "Wall"
   ],
+  "start_fully_charged": false,
   "ammo_capacity": 4800,
-  "ammo_demand": 800,
+  "ammo_demand": 640,
   "ammo_per_shot": 1600,
   "ammo_source": "energy"
 }

@@ -20,6 +20,7 @@
     "WL_WaterSurface",
     "WL_Air"
   ],
+  "start_fully_charged": false,
   "ammo_capacity": 1200,
   "ammo_demand": 400,
   "ammo_per_shot": 400,

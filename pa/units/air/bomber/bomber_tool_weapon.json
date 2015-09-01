@@ -26,5 +26,6 @@
       "audio_cue": "/SE/Impacts/shell_artillery",
       "effect_spec": "/pa/effects/specs/default_proj_area_explosion.pfx"
     }
-  }
+  },
+  "start_fully_charged": false
 }

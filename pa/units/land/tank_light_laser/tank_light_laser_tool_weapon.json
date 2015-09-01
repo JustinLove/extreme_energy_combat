@@ -15,6 +15,7 @@
     "WL_Seafloor",
     "WL_WaterSurface"
   ],
+  "start_fully_charged": false,
   "ammo_capacity": 5040,
   "ammo_demand": 840,
   "ammo_per_shot": 1680,

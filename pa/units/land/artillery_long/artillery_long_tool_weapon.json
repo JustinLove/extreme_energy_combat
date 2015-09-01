@@ -23,5 +23,6 @@
     "WL_Seafloor",
     "WL_WaterSurface",
     "WL_Underwater"
-  ]
+  ],
+  "start_fully_charged": false
 }

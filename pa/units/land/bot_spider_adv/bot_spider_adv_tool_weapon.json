@@ -14,6 +14,7 @@
     "WL_WaterSurface",
     "WL_Underwater"
   ],
+  "start_fully_charged": false,
   "ammo_capacity": 3900,
   "ammo_demand": 2600,
   "ammo_per_shot": 1300,
