@@ -1,3 +1,8 @@
+## 2.0.1
+
+- update unit stats to PA 112176
+- updated PA path lookup with wider system compatiblity
+
 ## 2.0.0
 
 - Based on titans units

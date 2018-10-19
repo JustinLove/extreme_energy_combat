@@ -86,7 +86,6 @@
   },
   "physics": {
     "radius": 10,
-    "push_class": 70,
     "orient_interp_rate": 90
   },
   "recon": {

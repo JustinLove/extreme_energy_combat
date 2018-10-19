@@ -3,7 +3,7 @@
   "ammo_id": "/pa/units/land/bot_sniper/bot_sniper_ammo.json",
   "rate_of_fire": 0.25,
   "idle_aim_delay": 3,
-  "max_range": 180,
+  "max_range": 220,
   "yaw_rate": 45,
   "pitch_rate": 90,
   "yaw_range": 180,

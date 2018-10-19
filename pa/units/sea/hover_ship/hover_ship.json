@@ -32,8 +32,7 @@
   },
   "physics": {
     "shape": "sphere",
-    "radius": 3,
-    "push_class": 2
+    "radius": 3
   },
   "recon": {
     "observer": {
@@ -274,6 +273,6 @@
   },
   "TEMP_texelinfo": 22.1895,
   "production": {
-    "energy": -9600
+    "energy": -8000
   }
 }
