@@ -13,6 +13,11 @@
     "WL_WaterSurface",
     "WL_Seafloor"
   ],
+  "target_priorities": [
+    "Commander",
+    "Titan & ( Land | Naval )",
+    "Nuke | NukeDefense"
+  ],
   "start_fully_charged": false,
   "ammo_capacity": 480000,
   "ammo_demand": 32000,

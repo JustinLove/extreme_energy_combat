@@ -1,13 +1,12 @@
 {
   "base_spec": "/pa/units/orbital/base_orbital/base_orbital.json",
   "display_name": "Helios",
-  "description": "!LOC:Invasion Titan- Can link with a teleporter and send units directly to a planet's surface. Attacks everything.",
+  "description": "!LOC:Invasion Titan - Can link with a teleporter to send units directly to planet surface. Attacks everything.",
   "max_health": 13000,
   "build_metal_cost": 30000,
   "atrophy_rate": 200,
   "atrophy_cool_down": 15,
   "spawn_layers": "WL_Orbital",
-  "gravwell_velocity_multiplier": 6,
   "wreckage_health_frac": 0,
   "energy_efficiency_requirement": 1,
   "attachable": {
@@ -20,6 +19,7 @@
     }
   },
   "unit_types": [
+    "UNITTYPE_Custom58",
     "UNITTYPE_Mobile",
     "UNITTYPE_Offense",
     "UNITTYPE_Orbital",
@@ -27,7 +27,8 @@
     "UNITTYPE_Advanced",
     "UNITTYPE_Titan",
     "UNITTYPE_FabOrbBuild",
-    "UNITTYPE_Important"
+    "UNITTYPE_Important",
+    "UNITTYPE_Interplanetary"
   ],
   "command_caps": [
     "ORDER_Move",

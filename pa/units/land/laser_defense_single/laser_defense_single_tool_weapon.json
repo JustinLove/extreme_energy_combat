@@ -3,7 +3,7 @@
   "ammo_id": "/pa/units/land/laser_defense_single/laser_defense_single_ammo.json",
   "rate_of_fire": 2,
   "max_range": 100,
-  "yaw_rate": 60,
+  "yaw_rate": 90,
   "pitch_rate": 180,
   "yaw_range": 180,
   "pitch_range": 90,
@@ -14,8 +14,8 @@
     "WL_WaterSurface"
   ],
   "start_fully_charged": false,
-  "ammo_capacity": 2400,
-  "ammo_demand": 1600,
-  "ammo_per_shot": 800,
+  "ammo_capacity": 3600,
+  "ammo_demand": 2400,
+  "ammo_per_shot": 1200,
   "ammo_source": "energy"
 }

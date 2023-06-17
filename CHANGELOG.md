@@ -1,3 +1,8 @@
+## 2.0.2
+
+- update unit stats and Custom58 to 116982
+- update PA path lookup for steam primary
+
 ## 2.0.1
 
 - update unit stats to PA 112176

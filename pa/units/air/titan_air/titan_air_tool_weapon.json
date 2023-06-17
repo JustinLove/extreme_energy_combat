@@ -2,9 +2,9 @@
   "base_spec": "/pa/tools/base_shell_turret/base_shell_turret.json",
   "ammo_id": "/pa/units/air/titan_air/titan_air_ammo.json",
   "ammo_source": "energy",
-  "rate_of_fire": 0.5,
+  "rate_of_fire": 0.55,
   "ammo_capacity": 10000,
-  "ammo_demand": 5000,
+  "ammo_demand": 5500,
   "ammo_per_shot": 10000,
   "idle_aim_delay": 3,
   "max_range": 100,
@@ -22,6 +22,12 @@
     "WL_Air",
     "WL_SeaFloor",
     "WL_Underwater"
+  ],
+  "target_priorities": [
+    "Commander",
+    "AirDefense | ( Air & Fighter)",
+    "Artillery & Advanced & ( Land | Naval )",
+    "Nuke | NukeDefense"
   ],
   "start_fully_charged": false
 }

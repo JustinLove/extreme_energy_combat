@@ -1,11 +1,12 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
-  "display_name": "!LOC:Kestrel",
-  "description": "!LOC:Gunship- Fast. Cheap. Durable. Attacks land and sea targets.",
-  "max_health": 300,
-  "build_metal_cost": 600,
+  "display_name": "Kestrel",
+  "description": "!LOC:Gunship - Fast. Cheap. Durable. Attacks land and sea targets.",
+  "max_health": 250,
+  "build_metal_cost": 800,
   "spawn_layers": "WL_Air",
   "unit_types": [
+    "UNITTYPE_Custom58",
     "UNITTYPE_Gunship",
     "UNITTYPE_Air",
     "UNITTYPE_Mobile",
@@ -40,7 +41,7 @@
       "cue": "/SE/Selection/air/gunship"
     }
   },
-  "guard_layer": "WL_Anysurface",
+  "guard_layer": "WL_AnySurface",
   "navigation": {
     "type": "air",
     "acceleration": 60,

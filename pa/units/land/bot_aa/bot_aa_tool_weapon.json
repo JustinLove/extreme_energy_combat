@@ -1,8 +1,8 @@
 {
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "ammo_id": "/pa/units/land/bot_aa/bot_aa_ammo.json",
-  "rate_of_fire": 2,
-  "max_range": 100,
+  "rate_of_fire": 1,
+  "max_range": 90,
   "yaw_rate": 3600,
   "pitch_rate": 3600,
   "yaw_range": 180,
@@ -12,9 +12,13 @@
   "target_layers": [
     "WL_Air"
   ],
+  "target_priorities": [
+    "Air & ( EnergyProduction | Transport | Bomber | Gunship | Titan )",
+    "Mobile & Air"
+  ],
   "start_fully_charged": false,
-  "ammo_capacity": 1500,
-  "ammo_demand": 1000,
-  "ammo_per_shot": 500,
+  "ammo_capacity": 900,
+  "ammo_demand": 300,
+  "ammo_per_shot": 300,
   "ammo_source": "energy"
 }

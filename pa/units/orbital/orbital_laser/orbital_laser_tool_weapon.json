@@ -15,15 +15,13 @@
   "target_layers": [
     "WL_LandHorizontal",
     "WL_WaterSurface",
-    "WL_Seafloor",
     "WL_Air"
   ],
   "target_priorities": [
-    "Structure - Wall",
-    "Land - Wall",
-    "Naval",
-    "Wall",
-    "Air"
+    "Commander",
+    "OrbitalDefense",
+    "Nuke | NukeDefense",
+    "Economy"
   ],
   "start_fully_charged": false
 }

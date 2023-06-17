@@ -12,6 +12,10 @@
   "target_layers": [
     "WL_Air"
   ],
+  "target_priorities": [
+    "Air & ( EnergyProduction | Transport | Bomber | Gunship | Titan )",
+    "Mobile & Air"
+  ],
   "start_fully_charged": false,
   "ammo_capacity": 1500,
   "ammo_demand": 1500,

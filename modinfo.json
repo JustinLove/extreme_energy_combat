@@ -1,14 +1,14 @@
 {
   "author": "wondible",
-  "build": "112176",
+  "build": "116982",
   "category": ["gameplay", "titans"],
   "context": "server",
-  "date": "2018/10/19",
+  "date": "2023/06/17",
   "description": "Units use large amounts of energy while fighting.",
   "display_name": "Extreme Energy Combat",
   "forum": "https://forums.uberent.com/threads/rel-server-extreme-energy-combat.65881/",
   "identifier": "com.wondible.pa.extreme_energy_combat",
   "signature": "not yet implemented",
-  "version": "2.0.1"
+  "version": "2.0.2"
 }
 

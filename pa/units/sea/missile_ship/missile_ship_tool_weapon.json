@@ -15,7 +15,15 @@
   "target_layers": [
     "WL_LandHorizontal",
     "WL_WaterSurface",
-    "Orbital"
+    "Orbital",
+    "WL_Air"
+  ],
+  "target_priorities": [
+    "Air & (Tactical | Heavy | MissileDefense)",
+    "Mobile - Air",
+    "Structure - Wall",
+    "Mobile & Air",
+    "Wall"
   ],
   "start_fully_charged": false,
   "ammo_capacity": 60000,

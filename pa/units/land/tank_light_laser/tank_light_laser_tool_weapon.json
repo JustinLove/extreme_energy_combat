@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/tools/base_shell_turret/base_shell_turret.json",
   "ammo_id": "/pa/units/land/tank_light_laser/tank_light_laser_ammo.json",
-  "rate_of_fire": 0.5,
+  "rate_of_fire": 0.55,
   "idle_aim_delay": 3,
   "max_range": 100,
   "yaw_rate": 180,
@@ -12,12 +12,11 @@
   "auto_attack": true,
   "target_layers": [
     "WL_LandHorizontal",
-    "WL_Seafloor",
     "WL_WaterSurface"
   ],
   "start_fully_charged": false,
   "ammo_capacity": 5040,
-  "ammo_demand": 840,
+  "ammo_demand": 924.0000000000001,
   "ammo_per_shot": 1680,
   "ammo_source": "energy"
 }

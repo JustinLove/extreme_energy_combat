@@ -7,11 +7,12 @@
   "firing_arc_pitch": 45,
   "auto_attack": true,
   "target_layers": [
-    "WL_LandHorizontal",
     "WL_WaterSurface",
+    "WL_LandHorizontal",
     "WL_Air"
   ],
   "target_priorities": [
+    "Commander",
     "Air",
     "Mobile",
     "Structure - Wall",

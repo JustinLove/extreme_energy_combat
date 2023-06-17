@@ -16,6 +16,13 @@
     "WL_Air",
     "WL_Underwater"
   ],
+  "target_priorities": [
+    "Mobile - Air",
+    "Air & ( EnergyProduction | Transport | Bomber | Gunship | Titan )",
+    "Structure - Wall",
+    "Mobile & Air",
+    "Wall"
+  ],
   "start_fully_charged": false,
   "ammo_capacity": 12000,
   "ammo_demand": 8000,

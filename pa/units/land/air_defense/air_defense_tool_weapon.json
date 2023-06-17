@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "ammo_id": "/pa/units/land/air_defense/air_defense_ammo.json",
-  "rate_of_fire": 3,
+  "rate_of_fire": 4,
   "max_range": 150,
   "yaw_rate": 360,
   "pitch_rate": 360,
@@ -12,9 +12,13 @@
   "target_layers": [
     "WL_Air"
   ],
+  "target_priorities": [
+    "Air & ( EnergyProduction | Transport | Bomber | Gunship | Titan )",
+    "Mobile & Air"
+  ],
   "start_fully_charged": false,
   "ammo_capacity": 1500,
-  "ammo_demand": 1500,
+  "ammo_demand": 2000,
   "ammo_per_shot": 500,
   "ammo_source": "energy"
 }

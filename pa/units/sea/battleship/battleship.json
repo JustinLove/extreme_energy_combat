@@ -1,16 +1,17 @@
 {
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
-  "display_name": "!LOC:Leviathan",
-  "description": "!LOC:Battleship- Long range advanced anti-ship, and anti-land guns.",
+  "display_name": "Leviathan",
+  "description": "!LOC:Battleship - Long range advanced anti-ship, and anti-land guns.",
   "max_health": 6000,
   "build_metal_cost": 4800,
   "spawn_layers": "WL_WaterSurface",
   "mesh_bounds": [
-    9,
-    40,
+    10,
+    45,
     12
   ],
   "unit_types": [
+    "UNITTYPE_Custom58",
     "UNITTYPE_Naval",
     "UNITTYPE_Mobile",
     "UNITTYPE_Offense",
@@ -23,7 +24,7 @@
     "type": "deepwater",
     "acceleration": 30,
     "brake": 80,
-    "move_speed": 8,
+    "move_speed": 11,
     "turn_speed": 45,
     "turn_accel": 15,
     "park_stamp_type": "box",

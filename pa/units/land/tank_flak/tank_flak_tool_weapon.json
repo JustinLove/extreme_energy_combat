@@ -2,11 +2,11 @@
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "ammo_id": "/pa/units/land/tank_flak/tank_flak_ammo.json",
   "rate_of_fire": 1,
-  "max_range": 80,
-  "yaw_rate": 180,
-  "pitch_rate": 180,
+  "max_range": 100,
+  "yaw_rate": 0,
+  "pitch_rate": 360,
   "yaw_range": 0,
-  "pitch_range": 0,
+  "pitch_range": 60,
   "spread_fire": true,
   "firing_arc_yaw": 180,
   "firing_arc_pitch": 180,
@@ -15,13 +15,12 @@
     "WL_Air"
   ],
   "target_priorities": [
-    "Air & Bomber",
-    "Air & Gunship",
-    "Air & Mobile"
+    "Air & ( EnergyProduction | Transport | Bomber | Gunship | Titan )",
+    "Mobile & Air"
   ],
   "start_fully_charged": false,
-  "ammo_capacity": 3600,
-  "ammo_demand": 1200,
-  "ammo_per_shot": 1200,
+  "ammo_capacity": 900,
+  "ammo_demand": 300,
+  "ammo_per_shot": 300,
   "ammo_source": "energy"
 }

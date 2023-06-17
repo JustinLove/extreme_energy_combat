@@ -17,5 +17,10 @@
     "WL_Air",
     "WL_AnyHorizontalGroundOrWaterSurface"
   ],
+  "target_priorities": [
+    "Fabber",
+    "AirDefense",
+    "Mobile & (Land | Naval)"
+  ],
   "start_fully_charged": false
 }

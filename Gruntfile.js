@@ -205,7 +205,7 @@ module.exports = function(grunt) {
           'pa_ex1/units/orbital/defense_satellite/defense_satellite.json',
           'pa_ex1/units/orbital/orbital_battleship/orbital_battleship.json',
           'pa_ex1/units/orbital/titan_orbital/titan_orbital.json',
-          'pa/units/sea/battleship/battleship.json',
+          'pa_ex1/units/sea/battleship/battleship.json',
           'pa_ex1/units/sea/destroyer/destroyer.json',
           'pa_ex1/units/sea/hover_ship/hover_ship.json',
         ],
@@ -239,8 +239,12 @@ module.exports = function(grunt) {
     }
   })
 
+  grunt.registerTask('printPath', function() {
+    console.log(media)
+  });
+
   // Default task(s).
-  grunt.registerTask('default', ['proc', 'copy:mod']);
+  grunt.registerTask('default', ['proc', 'copy:mod', 'printPath']);
 
 };
 

@@ -27,5 +27,12 @@
       "effect_spec": "/pa/effects/specs/default_proj_area_explosion.pfx"
     }
   },
+  "target_priorities": [
+    "Commander",
+    "AirDefense & ( Land | Naval )",
+    "Titan & ( Land | Naval )",
+    "Artillery & Advanced & ( Land | Naval )",
+    "Nuke | NukeDefense"
+  ],
   "start_fully_charged": false
 }

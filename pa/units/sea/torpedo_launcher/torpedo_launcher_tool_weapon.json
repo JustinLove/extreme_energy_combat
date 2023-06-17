@@ -24,7 +24,7 @@
     "WL_Underwater",
     "WL_Seafloor"
   ],
-  "exclude_unit_types": "Hover",
+  "exclude_unit_types": "Hover | WaterHover",
   "start_fully_charged": false,
   "ammo_capacity": 15000,
   "ammo_demand": 3000,
